@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.6",
+    "vitest": "^0.34.5"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
